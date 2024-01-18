@@ -1,2 +1,2 @@
 # VidGit
-This project is basically a bot that creates videos based on a prompt. For example you could say the prompt, "Make me a video about the 10 best cats for people with allergies" and it will make a short video about said topics. (THIS REPOSITORY DOES NOT CONTAIN MY ENTIRE PROJECT, ANOTHER REPO CALLED VidGit DOES AS I ACCIDENTALLY LEAKED SOME PRIVATE INFORMATION IN ONE OF THE COMMITS, I WILL GET IT UP AND RUNNING AS SOON AS POSSIBLE)
+This project is basically a bot that creates videos based on a prompt. For example you could say the prompt, "Make me a video about the 10 best cats for people with allergies" and it will make a short video about said topics.
